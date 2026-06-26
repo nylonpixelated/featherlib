@@ -1,5 +1,5 @@
 -- Feather Loader for nylonpixelated/featherlib
-local GITHUB_BASE = "https://raw.githubusercontent.com/nylonpixelated/featherlib/main/"
+local GITHUB_BASE = "https://github.com/nylonpixelated/featherlib/tree/main"
 
 -- Points to your renamed library file in the guis folder
 local Feather = loadstring(game:HttpGet(GITHUB_BASE .. "guis/lib.lua"))()
