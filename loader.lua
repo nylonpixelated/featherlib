@@ -1,4 +1,5 @@
 -- Feather Loader for nylonpixelated/featherlib
+print("hello sir!")
 local GITHUB_BASE = "https://github.com/nylonpixelated/featherlib/tree/main"
 
 -- Points to your renamed library file in the guis folder
